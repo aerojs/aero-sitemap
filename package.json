@@ -1,0 +1,21 @@
+{
+	"name": "aero-sitemap",
+	"version": "0.0.1",
+	"main": "index.js",
+	"description": "Registers /sitemap.txt, /sitemap.xml and /robots.txt, can be added to Google Search Console.",
+	"dependencies": {},
+	"keywords": [
+		"aero",
+		"sitemap"
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/aerojs/aero-sitemap"
+	},
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	},
+	"license": "GPL-3.0"
+}

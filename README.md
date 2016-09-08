@@ -1,2 +1,2 @@
 # aero-sitemap
-Sitemap for Aero websites.
+This plugin automatically creates the sitemaps `/sitemap.txt` and `/sitemap.xml`. You can link them in your Google Search Console project. Currently it's a very simple implementation but in the future you'll have full control over the contents of these sitemaps.
